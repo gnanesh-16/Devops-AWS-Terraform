@@ -1,1 +1,35 @@
+----------------------------------------DEVOPS----------------------------------------
+pART - 1: Introduction of Devops 
 
+          -> What is Devops 
+          -> Why Devops
+          -> Devops Lifecycle
+          -> What is SDLC 
+          -> Methodlogies in SDLC 
+          -> What is Waterfall Methodology 
+          -> ADC and Disadvantages in Waterfall Methodlogy 
+          -> What is Agile Methodoloy 
+          -> Advantages of Agile Methodology 
+
+pArt - 2: AWS CLoud (20+ Services)
+
+          1. EC2 (Elastic Compute Cloud)
+          2. AMI (Amazon Machine Images)
+          3. EBS (Elastic Block Store)
+  _IMP_   4. ELB (ELastic Load Balancer)
+          5. ASG (Auto Scaling Group)
+          6. R53 (Toute 53)
+          7. S3 (Simple Storage Service)
+          8. RDS (Relational Data-Base)
+          9. DynamoDB (NoSql database)
+  _IMP_   10. VPC (Virtual Private Cloud) 
+          11. Cloud Watch (MOnitering Service)
+  _IMP_   12. IAC (Cloud foramation)
+          13. SQS (Simple QUeue Service)
+          14. SNS (Simple Notification Service)
+          15. ECS (Elastic Container Service)
+          16.  IAM (Identity and Acess Management)
+          17.  AWS (CLI) -(Commmand LIne Interface)
+          18.  ELASTIC BEANSTALK (Elastic Beanstalk)
+          19.  Services) = (Lamda)
+          20. EKS (Elastic Kubernets Services)
